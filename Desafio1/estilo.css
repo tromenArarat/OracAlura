@@ -1,0 +1,37 @@
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+h1{
+    text-align: center;
+}
+#cuento{
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+.presenta{
+    background-color: aqua;
+    padding: 20px;
+}
+.diferenciales{
+    background:#FFFFFF;
+}
+.una{
+    text-transform: uppercase;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width:20%;
+    margin-right: 15%;
+}
+.imgDif{
+    width: 40%;
+}
